@@ -1,0 +1,10 @@
+.docker/
+.DS_Store
+.env
+.idea/
+.parcel-cache/
+.vscode/
+dist/
+node_modules
+npm-debug.log
+yarn-error.log

@@ -1,11 +1,10 @@
 # Namaste React 🙏
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/namaste-react.git
+# Parcel
+- Dev Build
+- Production Build
+- Local Server
+- HMR - Hot Module Replacement
+- File Watching Algorithm written in C++
+- Faster Builds by caching
+- Tree Shaking
