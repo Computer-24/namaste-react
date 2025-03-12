@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://as1.ftcdn.net/v2/jpg/00/70/15/96/1000_F_70159600_lyb7DSbP2GKowZ0l2YbnHU1wCcxYkYxL.jpg" 

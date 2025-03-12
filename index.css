@@ -1,3 +1,54 @@
-#heading {
-    color: blue;
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+
+}
+
+.logo {
+    padding: 4px 4px;
+    width: 100px;
+}
+
+.nav-items>ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0px 20px;
+}
+
+.nav-items>ul>li {
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.res-card {
+    margin: 4px;
+    width: 200px;
+    padding: 4px;
+}
+
+.res-card:hover {
+    background-color: #f5f5f5;
+    border: 1px solid wheat;
+    cursor: pointer;
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.filter {
+    padding: 10px;
+}
+
+.filter-btn {
+    cursor: pointer;
+}
+
+.res-logo {
+    width: 100%;
 }
