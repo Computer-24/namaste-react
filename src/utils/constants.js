@@ -1,1 +1,3 @@
 export const LOGO_URL = "https://as1.ftcdn.net/v2/jpg/00/70/15/96/1000_F_70159600_lyb7DSbP2GKowZ0l2YbnHU1wCcxYkYxL.jpg" 
+export const BASE_URL  = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.0759837&lng=72.8776559&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+export const MENU_URL = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=19.0759837&lng=72.8776559&restaurantId="

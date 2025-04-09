@@ -1,0 +1,76 @@
+{
+  "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+  "info": {
+    "id": "785563",
+    "name": "Cafe Irani Chaii",
+    "cloudinaryImageId": "be2600bef67fba98cb9bad18c40f9080",
+    "locality": "Hemu Kalani Marg",
+    "areaName": "Chembur",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+      "Parsi",
+      "Cafe",
+      "Indian",
+      "Snacks"
+    ],
+    "avgRating": 4.5,
+    "parentId": "53360",
+    "avgRatingString": "4.5",
+    "totalRatingsString": "1.2K+",
+    "sla": {
+      "deliveryTime": 36,
+      "lastMileTravel": 3.8,
+      "serviceability": "SERVICEABLE",
+      "slaString": "35-40 mins",
+      "lastMileTravelString": "3.8 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2025-04-08 23:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "aggregatedDiscountInfoV2": {},
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {
+    "context": "seo-data-6aa68f46-ae3a-4f02-bac8-f1ccada6c338"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/city/mumbai/cafe-irani-chaii-hemu-kalani-marg-chembur-rest785563",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

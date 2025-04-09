@@ -5,6 +5,7 @@
 .parcel-cache/
 .vscode/
 dist/
+coverage/
 node_modules
 npm-debug.log
 yarn-error.log
